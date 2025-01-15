@@ -1,2 +1,3 @@
-# Youtube-clone
-This project is a YouTube clone implemented using HTML, CSS, and JavaScript. The goal of this project is to recreate the basic functionality and design of the popular video-sharing platform YouTube
+# YouTube-Clone
+This app contain source code of YouTube clone app
+![image](https://github.com/sanajitjana/youtube-clone/assets/76105799/0d7e6166-7fe9-401e-8295-f708f3c34f8a)
